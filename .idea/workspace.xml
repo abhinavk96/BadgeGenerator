@@ -149,11 +149,6 @@
               <item name="badge generation" type="b2602c69:ProjectViewProjectNode" />
               <item name="badges" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="badge generation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="badges" type="462c0819:PsiDirectoryNode" />
-              <item name="participant" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -374,12 +369,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552444955239</updated>
-      <workItem from="1552444956595" duration="18487000" />
+      <workItem from="1552444956595" duration="19248000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18487000" />
+    <option name="totallyTimeSpent" value="19248000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="988" extended-state="6" />
