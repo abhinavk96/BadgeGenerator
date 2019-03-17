@@ -35,15 +35,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../badges/script.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="30" column="30" selection-end-line="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../badges/participant/participants-script.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-90">
@@ -70,16 +61,28 @@
         <entry file="file://$PROJECT_DIR$/../badges/participant/participants.svg">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
-              <caret line="796" column="18" lean-forward="true" selection-start-line="796" selection-start-column="18" selection-end-line="796" selection-end-column="18" />
+              <caret line="796" column="18" selection-start-line="796" selection-start-column="18" selection-end-line="796" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../badges/participant/participants.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-705">
+              <caret line="55" column="15" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../badges/participant/participants.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-705">
-              <caret line="55" column="15" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="15" />
+        <entry file="file://$PROJECT_DIR$/../badges/README.MD">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="87" selection-start-line="2" selection-start-column="87" selection-end-line="2" selection-end-column="87" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -100,6 +103,7 @@
       <find>Organization</find>
       <find>Organiza</find>
       <find>Name</find>
+      <find>murthy</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -127,6 +131,7 @@
         <option value="$PROJECT_DIR$/../badges/participant/participants-script.py" />
         <option value="$PROJECT_DIR$/../badges/participant/svg2pdf.sh" />
         <option value="$PROJECT_DIR$/../badges/participant/participants.csv" />
+        <option value="$PROJECT_DIR$/../badges/README.MD" />
       </list>
     </option>
   </component>
@@ -369,12 +374,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552444955239</updated>
-      <workItem from="1552444956595" duration="19248000" />
+      <workItem from="1552444956595" duration="20441000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19248000" />
+    <option name="totallyTimeSpent" value="20441000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="988" extended-state="6" />
@@ -599,7 +604,7 @@
     <entry file="file://$PROJECT_DIR$/../badges/participant/participants.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="796" column="18" lean-forward="true" selection-start-line="796" selection-start-column="18" selection-end-line="796" selection-end-column="18" />
+          <caret line="796" column="18" selection-start-line="796" selection-start-column="18" selection-end-line="796" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -607,6 +612,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-705">
           <caret line="55" column="15" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../badges/README.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="87" selection-start-line="2" selection-start-column="87" selection-end-line="2" selection-end-column="87" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
